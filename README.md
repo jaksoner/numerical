@@ -1,2 +1,3 @@
 # numerical
-代码部分见
+代码部分见main.ipynb
+
